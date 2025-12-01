@@ -90,8 +90,10 @@ This repository is intended as a portfolio of my work. All code was written indi
 Feel free to explore my work! If you have questions about any projects or would like to discuss collaboration opportunities, please reach out.
 
 **Institution:** Georgia Institute of Technology  
-**Major:** Computer Science  
-**Expected Graduation:** [Your graduation year]
+**Email:** aerard3@gatech.edu  
+**Major:** Computer Engineering  
+**Minor:** Computing and Intelligence  
+**Expected Graduation:** 2028
 
 ---
 
