@@ -90,7 +90,7 @@ This repository is intended as a portfolio of my work. All code was written indi
 Feel free to explore my work! If you have questions about any projects or would like to discuss collaboration opportunities, please reach out.
 
 **Institution:** Georgia Institute of Technology  
-**Major:** Computer Engineering
+**Major:** Computer Engineering  
 **Minor:** Computing and Intelligence  
 **Expected Graduation:** 2028
 
